@@ -4,7 +4,7 @@
         <center>
             <br>
             <h1>
-                WELCOME TO VUE 3 / LARAVEL 9 TEMPLATE
+            <p>test</p>
             </h1>
             <br>
             <v-img width="300px" :src="HomeImage"></v-img>
